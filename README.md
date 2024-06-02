@@ -1,2 +1,2 @@
-# Projet-de-r-cup-ration-et-d-affichage-de-donn-es-de-temp-rature-pression-d-bit-et-volume
+# Projet-de-rcupration-et-d-affichage-de-donnes-de-temprature-pression-debit-et-volume
 Projet QT de récupération et d'affichage de données de température, pression, débit et volume
